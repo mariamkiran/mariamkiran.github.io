@@ -31,10 +31,11 @@ I am a Computer Networking and AI Scientist and currently lead Oak Ridge Nationa
 <h3>Resources:</h3>
 Feel free to reach out to me about following resources/code I maintain.
 <ul>
-  <li>Github Organization on <a href="https://github.com/SelfDrivingNetworkLab">Self-driving Networks</a>: Collection of deep learning solutions for network engineering</li>
+  <li>My Github Organization on <a href="https://github.com/SelfDrivingNetworkLab">Self-driving Networks</a>: Collection of deep learning solutions for network engineering with key softwares such as Traffic Prediction and HECATE.</li>
   <li>HECATE: AI-enabled traffic engineering</li>
+  <li>InDIRA: Intent based networking</li>
 </ul>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+

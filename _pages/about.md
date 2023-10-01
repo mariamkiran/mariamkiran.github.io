@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building 4100</p>
-    <p>1 Bethel Valley Roak</p>
+    <p>Room 361, Building 4100</p>
+    <p>1 Bethel Valley Road</p>
     <p>Oak Ridge, TN, 37831</p>
 
 news: true  # includes a list of news items

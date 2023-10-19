@@ -9,9 +9,9 @@ display_categories:
 horizontal: false
 ---
 
-temp.html
+<!--temp.html
 [My page](/temp.html)
-
+-->
 <h3>Research Projects</h3>
   <ul>
     <li>SWARM </li>
@@ -34,17 +34,33 @@ temp.html
                 </li>
 
                 </ul>
-                Other Collaborations (email me for details):   <ul>
+                
+                Others:  
+                <ul>                <ul>
                     <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
                   <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
                 </ul>
 
 <h3>Data repositories</h3>
+<ul><li>
+    CAIDA: Great resource for Internet Data.</li>
+
+  <li>  TCP Statistics collected using TSTAT tool. </li>
+
+   <li> Sample Wireshark captures, open data set.
+</li>
+
+<li>MAWI data: for traffic anomalies: http://www.fukuda-lab.org/mawilab/documentation.html</li>
+<li>Internet Traffic data: https://ant.isi.edu/datasets/index.html</li>
+<li>Security related data released by Sybersecurity lab at LANL: https://csr.lanl.gov/data/cyber1/</li>
+<li>Netflix data set for move recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
+
+</ul>
 
 <h3>Demos, Posters and Presentations</h3>
  <ul>
-                                VIDEO
-                                <li>2022: Netostat is published in Cluster Computing
+    VIDEO
+              <li>2022: Netostat is published in Cluster Computing
                                 </li>
                                 <li>DynamicDeepFlow wins Best Paper at MLN conference 2021</li>
                                 <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</li>
@@ -66,10 +82,7 @@ temp.html
 
               <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,
                   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>.
-                 <!--<iframe width="320" height="215"
-                src="https://www.youtube.com/embed/CJp_oXcgerU">
-             
-                </iframe>-->
+              
                </li>
               <li>M Kiran, A Mandal, G Papadimitriu, C Wang, E Deelman, Debugging Bad Performance in Huge 
                 Infrastructure: Using ML and AI (Presentation), Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective</li>
@@ -116,7 +129,7 @@ temp.html
 <ul>
 <li>New Manager Training HaaS Berkeley</li>         
   <li> Fully funded PhD Award 2007-2011 </li>
-   <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, 2007 </li>
+   <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, University of Sheffield, 2007 </li>
   
   <b>Prizes (Software features, Entrepreneurial and More)</b>
   <ul>

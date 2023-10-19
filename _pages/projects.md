@@ -47,15 +47,14 @@ horizontal: false
 
 <h3>Demos, Posters and Presentations</h3>
  <ul>
-                <li>2022: Netostat is published in Cluster Computing
-                                </li>
-                                <li>DynamicDeepFlow wins Best Paper at MLN conference 2021</li>
-                                <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</li>
-    <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon</li>
-    <li>Sept 10th 2021, HPC Wire: RENCI Collaboration to Leverage AI and ML for DOE Workflows </li>
-    <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
+   <li>2022: Netostat is published in Cluster Computing</li>
+   <li>DynamicDeepFlow wins Best Paper at MLN conference 2021</li>
+   <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</li>
+   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon</li>
+   <li>Sept 10th 2021, HPC Wire: RENCI Collaboration to Leverage AI and ML for DOE Workflows </li>
+   <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
    <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
-      <li>Invited as Panel to speak on "SenSys 2021 on “Career Goals for female researchers, how does one choose between academia and industry?”" N2Women</li>
+    <li>Invited as Panel to speak on "SenSys 2021 on “Career Goals for female researchers, how does one choose between academia and industry?”" N2Women</li>
               <li>INDIS 2021: Welcome Talk</li>
             <li>MODSIM 2021: Building Self-driving Networks</li>
             <li>INDIS 2020: AI for Networking: an Engineering Perspective</li>

@@ -14,18 +14,18 @@ horizontal: false
 -->
 <h3>Research Projects</h3>
   <ul>
-    <li>SWARM </li>
- <li>Self-driving 5G Network . Funded by DOE
+    <li>SWARM(PI, Ewa Deelman USC) . Funded by DOE</li>
+ <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE
 </li>
-<li>Intelligent Automation Wireless Network . Funded by LBNL LDRD
+<li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD
 </li>
-<li>   <a href="https://sites.google.com/view/poseidon-workflows/home"> POSEIDON </a>(PI, Ewa Deelman USC) . Funded by DOE</li>
+<li>   <a href="https://sites.google.com/view/poseidon-workflows/home"> POSEIDON </a>(PI, Ewa Deelman USC). Funded by DOE</li>
 
 
    <li>   AI for Quantum Transducer (LDRD, PI Mekena Metcalf) </li>
 
   <li>    Uncertainty Quantification for Hyper parameter tuning (HYPPO, PI Julianne Mueller)</li>
-  <li>DAPHNE <u></u>> <a href="https://sites.google.com/lbl.gov/daphne/">DAPHNE HOME</a></li>
+  <li>DAPHNE <u></u>> <a href="https://sites.google.com/lbl.gov/daphne/">DAPHNE HOME</a> (PI,Kiran).</li>
                 <li> PANORAMA <u></u>> <a href="https://panorama360.github.io/">Panorama Website</a>
                 </li>
                 <li>Agent-based Models<u></u>> <a href="https://flame.ac.uk/">FLAME Framework</a>
@@ -33,22 +33,15 @@ horizontal: false
                 <li> Intent-based Network <u></u>> <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a>
                 </li>
 
-                </ul>
-                
-                Others:  
-                <ul>                <ul>
-                    <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
+                   <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
                   <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
                 </ul>
 
 <h3>Data repositories</h3>
-<ul><li>
-    CAIDA: Great resource for Internet Data.</li>
-
+<ul>
+  <li>  CAIDA: Great resource for Internet Data.</li>
   <li>  TCP Statistics collected using TSTAT tool. </li>
-
-   <li> Sample Wireshark captures, open data set.
-</li>
+   <li> Sample Wireshark captures, open data set.</li>
 
 <li>MAWI data: for traffic anomalies: http://www.fukuda-lab.org/mawilab/documentation.html</li>
 <li>Internet Traffic data: https://ant.isi.edu/datasets/index.html</li>
@@ -59,8 +52,7 @@ horizontal: false
 
 <h3>Demos, Posters and Presentations</h3>
  <ul>
-    VIDEO
-              <li>2022: Netostat is published in Cluster Computing
+                <li>2022: Netostat is published in Cluster Computing
                                 </li>
                                 <li>DynamicDeepFlow wins Best Paper at MLN conference 2021</li>
                                 <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</li>
@@ -72,8 +64,7 @@ horizontal: false
     <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
 
     <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
-</ul>
-        <ul>
+
                      <li>Invited as Panel to speak on "SenSys 2021 on “Career Goals for female researchers, how does one choose between academia and industry?”" N2Women</li>
               <li>INDIS 2021: Welcome Talk</li>
 
@@ -117,6 +108,7 @@ horizontal: false
        </li>
 
    </ul>
+   
 <h3>Awards and Funding</h3>
  <b>International Awards</b>
     <ul>

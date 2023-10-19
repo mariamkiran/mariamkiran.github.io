@@ -30,9 +30,7 @@ horizontal: false
                 </li>
                 <li>Agent-based Models<u></u>> <a href="https://flame.ac.uk/">FLAME Framework</a>
                 </li>
-                <li> Intent-based Network <u></u>> <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a>
-                </li>
-
+                <li> Intent-based Network <u></u>> <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a></li>
                    <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
                   <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
                 </ul>
@@ -42,12 +40,10 @@ horizontal: false
   <li>  CAIDA: Great resource for Internet Data.</li>
   <li>  TCP Statistics collected using TSTAT tool. </li>
    <li> Sample Wireshark captures, open data set.</li>
-
 <li>MAWI data: for traffic anomalies: http://www.fukuda-lab.org/mawilab/documentation.html</li>
 <li>Internet Traffic data: https://ant.isi.edu/datasets/index.html</li>
 <li>Security related data released by Sybersecurity lab at LANL: https://csr.lanl.gov/data/cyber1/</li>
 <li>Netflix data set for move recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
-
 </ul>
 
 <h3>Demos, Posters and Presentations</h3>

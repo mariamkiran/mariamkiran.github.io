@@ -13,7 +13,9 @@ horizontal: false
 [My page](/temp.html)
 -->
 
-(#my-funky-heading)
+
+
+[jump](#my-funky-heading)
 
 <h3>Research Projects</h3>
   <ul>

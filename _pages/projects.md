@@ -95,12 +95,13 @@ horizontal: false
    <li> UK Royal Society Award for Researcher in Residence at Westminster (UK Parliament) 2019</li>
 </ul>
 
-   <b>Faculty Honours and Fellowships</b>
+<b>Faculty Honours and Fellowships</b>
 <ul>
 <li>New Manager Training HaaS Berkeley</li>         
   <li> Fully funded PhD Award 2007-2011 </li>
    <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, University of Sheffield, 2007 </li>
-  
+</ul>
+ 
   <b>Prizes (Software features, Entrepreneurial and More)</b>
   <ul>
     <li>Runner up for R&D 100 Award for ESnet Portal </li>

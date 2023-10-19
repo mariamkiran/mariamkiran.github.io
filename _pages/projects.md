@@ -12,6 +12,9 @@ horizontal: false
 <!--temp.html
 [My page](/temp.html)
 -->
+
+(#my-funky-heading)
+
 <h3>Research Projects</h3>
   <ul>
     <li>SWARM(PI, Ewa Deelman USC) . Funded by DOE</li>
@@ -139,3 +142,5 @@ Arizona State University. </li>
   <li>Pottery</li>
   <li>Yoga Resources</li>
 </ul>
+
+<h3 id="my-funky-heading">My Funky Heading</h3>

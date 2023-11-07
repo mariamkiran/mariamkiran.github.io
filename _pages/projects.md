@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Research Projects and Codes Releases
+description: More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 nav: true
 nav_order: 1
 display_categories: 

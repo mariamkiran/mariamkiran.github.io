@@ -12,11 +12,55 @@ horizontal: false
 <!--temp.html
 [My page](/temp.html)
 -->
-
-
+More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 
 [jump](#my-funky-heading)
+[press](#my-funky-heading)
 
+<h3 id="press">Selected Press</h3>
+ <ul>
+    <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering <a href="https://www.es.net/news-and-publications/esnet-news/2021/mariam-kiran-wins-rising-star-award-for-network-engineering/">Link</a> </li>
+   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a></li>
+   <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/>Link</a> </li>
+ <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center 
+                    <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
+  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,
+                  <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
+
+   <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
+  
+   <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
+   <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
+
+          </ul>
+          
+<h3>Awards and Recognition</h3>
+    <ul>
+ <li>ACM N2Women Rising Star in Communications 2021 </li>
+<li> US DOE ASCR Early Career Award 2017 </li>
+   <li> UK Royal Society Award for Researcher in Residence at Westminster (UK Parliament) 2019</li>
+<li>Faculty Award: New Manager Training HaaS Berkeley</li>         
+  <li> Fully funded PhD Award 2007-2011 </li>
+   <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, University of Sheffield, 2007 </li>
+</ul>
+<ul>
+    <li>MLN 2021 Best Paper Award</li>
+</ul>
+  <ul>
+    <li>Runner up for R&D 100 Award for ESnet Portal </li>
+   <li> Multiple Open-source Software licenses filed: NetPredict, NetGraf </li>
+<li>BradStack featured on Bradford News 2016</li>
+</ul>
+
+
+<h3>Patents filed</h3>
+<ul>
+   <li>Provisional Patent Application based on technology: Data driven, machine learning augmented dynamic path optimization, 2021 </li>
+   <li>Provisional Patent Application based on technology: Reinforcement Learning for Quantum Network Control, 2021
+                        </li>
+                    </ul>
+
+                    
 <h3>Research Projects</h3>
   <ul>
     <li>SWARM(PI, Ewa Deelman USC) . Funded by DOE</li>
@@ -50,38 +94,7 @@ horizontal: false
 <li>Netflix data set for move recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
 </ul>
 
-<h3>Demos, Posters and Presentations</h3>
- <ul>
-   <li>2022: Netostat is published in Cluster Computing</li>
-   <li>DynamicDeepFlow wins Best Paper at MLN conference 2021</li>
-   <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</li>
-   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon</li>
-   <li>Sept 10th 2021, HPC Wire: RENCI Collaboration to Leverage AI and ML for DOE Workflows </li>
-   <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
-   <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
-    <li>Invited as Panel to speak on "SenSys 2021 on “Career Goals for female researchers, how does one choose between academia and industry?”" N2Women</li>
-              <li>INDIS 2021: Welcome Talk</li>
-            <li>MODSIM 2021: Building Self-driving Networks</li>
-            <li>INDIS 2020: AI for Networking: an Engineering Perspective</li>
-              <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,
-                  <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
-              <li>M Kiran, A Mandal, G Papadimitriu, C Wang, E Deelman, Debugging Bad Performance in Huge 
-                Infrastructure: Using ML and AI (Presentation), Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective</li>
-                <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center 
-                    <span style="color:green;"><a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></span>.
-                  <!--<a href="https://www.youtube.com/watch?v=GdJnN2gOFD4"> [Talk]</a></li>
-                <iframe width="320" height="215"
-                src="https://www.youtube.com/embed/GdJnN2gOFD4">
-                </iframe> --></li>
-            <li>Nov 2017: Classifying Elephant and Mice flows, INDIS workshop, SC17 <span style="color:green;"><a href="/mariamkiran.github.io/SC17-talk_indis_flows.pptx"> [slides]</a></span>.</li>
-            <li> Machine learning research in WAN systems, Internet2 Tech Exchange, Aug 2017, San Francisco, US <span style="color:green;"><a href="/mariamkiran.github.io/MLreviewnetworks-techexv3.pptx"> [slides]</a></span>.</li>
-           <li> Intent driven Networks: INDIRA, GEANT Conference, Apr 2017, Linz, Austria <span style="color:green;"><a href="/mariamkiran.github.io/indira_tnc_talk_kiran_finalv3.pptx">[slides]</a></span>.</li>
-           <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
-           <!--<iframe width="320" height="215"
-                src="https://www.youtube.com/embed/qrN7VVmtxPs">
-                </iframe></li>--> 
-           <li> INDIRA for intent-based networking SC Conference, Nov 2016, Salt Lake City, <span style="color:green;"><a href="http://es.net/network-r-and-d/intent/">[demo]</a></span>.</li>
-          </ul>
+
 
 <h3>Blog Posts</h3>
 <ul><li>
@@ -92,38 +105,7 @@ horizontal: false
        </li>
    </ul>
    
-<h3>Awards and Funding</h3>
- <b>International Awards</b>
-    <ul>
- <li>ACM N2Women Rising Star in Communications 2021 </li>
-<li> US DOE ASCR Early Career Award 2017 </li>
-   <li> UK Royal Society Award for Researcher in Residence at Westminster (UK Parliament) 2019</li>
-</ul>
 
-<b>Faculty Honours and Fellowships</b>
-<ul>
-<li>New Manager Training HaaS Berkeley</li>         
-  <li> Fully funded PhD Award 2007-2011 </li>
-   <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, University of Sheffield, 2007 </li>
-</ul>
- 
-  <b>Prizes (Software features, Entrepreneurial and More)</b>
-  <ul>
-    <li>Runner up for R&D 100 Award for ESnet Portal </li>
-   <li> Multiple Open-source Software licenses filed: NetPredict, NetGraf </li>
-<li>BradStack featured on Bradford News 2016</li>
-</ul>
-<b>Best Paper Awards</b>
-<ul>
-    <li>MLN 2021 Best Paper Award</li>
-</ul>
-<h3>Patents filed</h3>
-<ul>
-   <li>Provisional Patent Application based on technology: Data driven, machine learning augmented dynamic path optimization, 2021 </li>
-   <li>Provisional Patent Application based on technology: Reinforcement Learning for Quantum Network Control, 2021
-                        </li>
-                    </ul>
-                    
 <h3>Professional Services</h3>
  <ul >                        <li>
                             Fellowship co-chair for N2Women for improving women researchers at Networking Conferences (2018-2020) </li>

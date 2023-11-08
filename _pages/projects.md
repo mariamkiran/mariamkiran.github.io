@@ -16,7 +16,7 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
 
 [jump](#my-funky-heading)<br>
 [press](#press)<br>
-[award](#award))<br>
+[award](#award)<br>
 [aiml](#aiml)
 
 <h3 id="press">Selected Press</h3>
@@ -24,17 +24,12 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
     <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering <a href="https://www.es.net/news-and-publications/esnet-news/2021/mariam-kiran-wins-rising-star-award-for-network-engineering/">Link</a> </li>
    <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a> </li>
    <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>
- <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center 
-                    <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
-  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,
-                  <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
-
+ <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center      <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
+  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
    <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
-  
-   <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
+    <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
    <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
-
-          </ul>
+</ul>
           
 <h3 id="award">Awards and Recognition</h3>
     <ul>

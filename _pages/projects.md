@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
+description: 
 nav: true
 nav_order: 1
 display_categories: 
@@ -14,14 +14,16 @@ horizontal: false
 -->
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 
-[jump](#my-funky-heading)
-[press](#my-funky-heading)
+[jump](#my-funky-heading)<br>
+[press](#press)<br>
+[award](#award))<br>
+[aiml](#aiml)
 
 <h3 id="press">Selected Press</h3>
  <ul>
     <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering <a href="https://www.es.net/news-and-publications/esnet-news/2021/mariam-kiran-wins-rising-star-award-for-network-engineering/">Link</a> </li>
-   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a></li>
-   <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/>Link</a> </li>
+   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a> </li>
+   <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>
  <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center 
                     <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
   <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,
@@ -34,55 +36,32 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
 
           </ul>
           
-<h3>Awards and Recognition</h3>
+<h3 id="award">Awards and Recognition</h3>
     <ul>
+       <li>Best Paper Award: MLN 2021 Best Paper Award</li>
  <li>ACM N2Women Rising Star in Communications 2021 </li>
+     <li>Faculty Award: New Manager Training HaaS Berkeley 2021</li>         
+
+      <li>Runner up for R&D 100 Award for ESnet Portal 2020</li>
 <li> US DOE ASCR Early Career Award 2017 </li>
-   <li> UK Royal Society Award for Researcher in Residence at Westminster (UK Parliament) 2019</li>
-<li>Faculty Award: New Manager Training HaaS Berkeley</li>         
+<li>BradStack featured on Bradford News 2016</li>
+   <li> UK Royal Society Award for Researcher in Residence at Westminster (UK Parliament) 2015</li>
   <li> Fully funded PhD Award 2007-2011 </li>
    <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, University of Sheffield, 2007 </li>
 </ul>
-<ul>
-    <li>MLN 2021 Best Paper Award</li>
-</ul>
-  <ul>
-    <li>Runner up for R&D 100 Award for ESnet Portal </li>
-   <li> Multiple Open-source Software licenses filed: NetPredict, NetGraf </li>
-<li>BradStack featured on Bradford News 2016</li>
-</ul>
+
+  
+
+ 
 
 
 <h3>Patents filed</h3>
 <ul>
    <li>Provisional Patent Application based on technology: Data driven, machine learning augmented dynamic path optimization, 2021 </li>
-   <li>Provisional Patent Application based on technology: Reinforcement Learning for Quantum Network Control, 2021
-                        </li>
+   <li>Provisional Patent Application based on technology: Reinforcement Learning for Quantum Network Control, 2021       </li>
                     </ul>
 
-                    
-<h3>Research Projects</h3>
-  <ul>
-    <li>SWARM(PI, Ewa Deelman USC) . Funded by DOE</li>
- <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE</li>
-<li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD
-</li>
-<li>   <a href="https://sites.google.com/view/poseidon-workflows/home"> POSEIDON </a>(PI, Ewa Deelman USC). Funded by DOE</li>
-
-
-   <li>   AI for Quantum Transducer (LDRD, PI Mekena Metcalf) </li>
-
-  <li>    Uncertainty Quantification for Hyper parameter tuning (HYPPO, PI Julianne Mueller)</li>
-  <li>DAPHNE <u></u>> <a href="https://sites.google.com/lbl.gov/daphne/">DAPHNE HOME</a> (PI,Kiran).</li>
-                <li> PANORAMA <u></u>> <a href="https://panorama360.github.io/">Panorama Website</a>
-                </li>
-                <li>Agent-based Models<u></u>> <a href="https://flame.ac.uk/">FLAME Framework</a>
-                </li>
-                <li> Intent-based Network <u></u>> <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a></li>
-                   <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
-                  <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
-                </ul>
-
+ <h2 id="aiml">AI and ML for Networks</h2>
 <h3>Data repositories</h3>
 <ul>
   <li>  CAIDA: Great resource for Internet Data.</li>
@@ -93,6 +72,25 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
 <li>Security related data released by Sybersecurity lab at LANL: https://csr.lanl.gov/data/cyber1/</li>
 <li>Netflix data set for move recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
 </ul>
+                    
+<h3>Research Projects</h3>
+  <ul>
+    <li>SWARM(PI, Ewa Deelman USC). Funded by DOE</li>
+ <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE</li>
+<li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD</li>
+<li>   <a href="https://sites.google.com/view/poseidon-workflows/home"> POSEIDON </a>(PI, Ewa Deelman USC). Funded by DOE</li>
+
+   <li>   AI for Quantum Transducer (LDRD, PI Mekena Metcalf) </li>
+  <li>    Uncertainty Quantification for Hyper parameter tuning (HYPPO, PI Julianne Mueller)</li>
+  <li>DAPHNE  <a href="https://sites.google.com/lbl.gov/daphne/">DAPHNE HOME</a> (PI,Kiran)</li>
+                <li> PANORAMA <a href="https://panorama360.github.io/">Panorama Website</a>                </li>
+                <li>Agent-based Models <a href="https://flame.ac.uk/">FLAME Framework</a>                </li>
+                <li> Intent-based Network <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a></li>
+                   <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
+                  <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
+                </ul>
+
+
 
 
 

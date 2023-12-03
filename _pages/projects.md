@@ -14,8 +14,8 @@ horizontal: false
 -->
 [Links for AI/ML Research for Network Infrastructure (Wired, wireless and more)](#aimlnet)<br>
 [Links for developing new AI/ML/Optimization Research for Self learning infrastructure](#aiml)<br>
-[press](#press)<br>
-[award](#award)<br>
+[selected press releases](#press)<br>
+[awards](#award)<br>
 [patents](#patents)<br>
 [research projects](#resprj)<br>
 
@@ -43,6 +43,7 @@ horizontal: false
 
 <h3 id="press">Selected Press</h3>
  <ul>
+   <li>Nov 28, 2023: SWARM Project Release <a href='https://renci.org/news/exploring-the-power-of-distributed-intelligence-for-resilient-scientific-workflows/'>Link</a></li>
     <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering <a href="https://www.es.net/news-and-publications/esnet-news/2021/mariam-kiran-wins-rising-star-award-for-network-engineering/">Link</a> </li>
    <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a> </li>
    <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>

@@ -19,6 +19,8 @@ horizontal: false
 [patents](#patents)<br>
 [research projects](#resprj)<br>
 
+
+<br>
 <h2 id="aimlnet">Useful Links: AI and ML for Networks</h2>
 <h3>Data repositories</h3>
 <ul>
@@ -35,11 +37,15 @@ horizontal: false
 <li>Netflix data set for movie recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
 </ul>
 
+<br>
+
 <h2 id="aiml">Useful Links: AI and ML and optimization for Self-learning Systems</h2>
 <h3>Data repositories</h3>
 <ul>
   <li>Algorithms: LM </li>
 </ul>
+
+<br>
 
 <h3 id="press">Selected Press</h3>
  <ul>
@@ -53,7 +59,8 @@ horizontal: false
     <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
    <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
 </ul>
-          
+ <br>
+ 
 <h3 id="award">Awards and Recognition</h3>
 <ul>
  <li>Best Paper Award: MLN 2021 Best Paper Award</li>
@@ -66,6 +73,7 @@ horizontal: false
  <li> Fully funded PhD Award 2007-2011 </li>
   <li> Fretwell-Downing Prize for Best MSc Dissertation in Engineering, University of Sheffield, 2007 </li>
 </ul>
+<br>
 
 <h3 id="patents">Patents filed</h3>
 <ul>
@@ -74,7 +82,7 @@ horizontal: false
  </li>
 </ul>
 
- 
+ <br>
                     
 <h3 id="resprj">Research Projects</h3>
   <ul>
@@ -96,6 +104,7 @@ horizontal: false
 
 
 
+<br>
 
 <h3>Older Blog Posts</h3>
 <ul><li>
@@ -106,6 +115,7 @@ horizontal: false
        </li>
    </ul>
    
+<br>
 
 <h3>Professional Services</h3>
 <ul>

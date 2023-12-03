@@ -33,7 +33,7 @@ Feel free to reach out to me about following resources/code I maintain.
 <ul>
   <li>My Github Organization on <a href="https://github.com/SelfDrivingNetworkLab">Self-driving Networks</a>: Collection of deep learning solutions for network engineering with key softwares such as Traffic Prediction, InDIRA (Intent based networking) and HECATE (AI-enabled traffic engineering).</li>
   <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
- 
+ <li>My Thoughts: <a href='Medium, PacketPushers'></a> </li>
 </ul>
 
 

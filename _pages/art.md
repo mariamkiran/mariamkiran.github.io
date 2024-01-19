@@ -1,10 +1,10 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: art
+permalink: /art/
 description: 
 nav: true
-nav_order: 1
+nav_order: 3
 display_categories: 
 horizontal: false
 ---
@@ -12,13 +12,7 @@ horizontal: false
 <!--temp.html
 [My page](/temp.html)
 -->
-[Links for AI/ML Research for Network Infrastructure (Wired, wireless and more)](#aimlnet)<br>
-[Selected press releases](#press)<br>
-[Awards](#award)<br>
-[Patents](#patents)<br>
-[Research projects](#resprj)<br>
-[Bio](#bio)<br>
-
+<!-- I love art! Inspired by architecture, places etc and usallu dabble in multiple mediums-->
 
 <!--<h2>Other Activities</h2>
 <ul>

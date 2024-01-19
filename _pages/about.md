@@ -28,15 +28,18 @@ social: true  # includes social icons at the bottom of the page
 I am a Computer Networking and AI Scientist and currently lead Oak Ridge National Lab’s Quantum Networking Group. My research explores AI/ML solutions for improving network performance, flexibility and high-speed distributed data transfers for science workflows. Involving themes of deep learning, software engineering and complex networks, I have developed solutions for optimizing data movement, TCP/IP protocols, learning controllers for Wide area network (WANs), wireless/5G (& Beyond) and Quantum networked devices. My research impacts DOE’s infrastructure used for high-energy physics, neutron science, materials science, biology, ecology, smart grids and nuclear energy applications.
 
 
-<h3>Resources:</h3>
+<h3>Code</h3>
 Feel free to reach out to me about following resources/code I maintain.
 <ul>
   <li>My Github Organization on <a href="https://github.com/SelfDrivingNetworkLab">Self-driving Networks</a>: Collection of deep learning solutions for network engineering with key softwares such as Traffic Prediction, InDIRA (Intent based networking) and HECATE (AI-enabled traffic engineering).</li>
-  <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
-  <li>Youtube channel:<a href='Medium, PacketPushers'></a></li>
-  <li>My Thoughts: <a href='Medium, PacketPushers'></a> </li>
 </ul>
 
 
+<h3>Writing & Media </h3>
+<ul>
+   <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
+  <li>Youtube channel:<a href='Medium, PacketPushers'></a></li>
+  <li>My Thoughts: <a href='Medium, PacketPushers'></a> </li>
+</ul>
 
 

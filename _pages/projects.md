@@ -14,10 +14,11 @@ horizontal: false
 -->
 [Links for AI/ML Research for Network Infrastructure (Wired, wireless and more)](#aimlnet)<br>
 [Links for developing new AI/ML/Optimization Research for Self learning infrastructure](#aiml)<br>
-[selected press releases](#press)<br>
-[awards](#award)<br>
-[patents](#patents)<br>
-[research projects](#resprj)<br>
+[Selected press releases](#press)<br>
+[Awards](#award)<br>
+[Patents](#patents)<br>
+[Research projects](#resprj)<br>
+[Bio](#bio)<br>
 
 
 <br>
@@ -49,15 +50,29 @@ horizontal: false
 
 <h3 id="press">Selected Press</h3>
  <ul>
+   <li>January 16, 2024: Three recent funding awards bolster ORNL’s quantum leadership <a href='https://www.ornl.gov/news/three-recent-funding-awards-bolster-ornls-quantum-leadership'>Link</a></li>
    <li>Nov 28, 2023: SWARM Project Release <a href='https://renci.org/news/exploring-the-power-of-distributed-intelligence-for-resilient-scientific-workflows/'>Link</a></li>
+      <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>
     <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering <a href="https://www.es.net/news-and-publications/esnet-news/2021/mariam-kiran-wins-rising-star-award-for-network-engineering/">Link</a> </li>
-   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a> </li>
-   <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>
- <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center      <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
-  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
-   <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
+   <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a> </li>  
+
+    <li>Nov 6, 2020, Machine Learning to Add Another Dimension to ESnet's Toolbox for Predicting Data Patterns
+ <a href="https://cs.lbl.gov/news-media/news/2020/machine-learning-to-add-another-dimension-to-esnets-toolbox-for-predicting-data-patterns/">Link</a> </li>
+ 
     <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
    <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
+
+    <li>Dec 2nd 2015, University of Bradford lecturer swaps lab coat for legislation<a href="https://www.bradford.ac.uk/news/archive/2015/university-of-bradford-lecturer-swaps-lab-coat-for-legislation.php">Link</a></li>
+</ul>
+
+<h3 id="videos">Videos & Talks</h3>
+ <ul>
+   <li>HECATE:Data driven, machine learning dynamic path optimization   <a href="https://www.youtube.com/watch?v=7xnYI3U96_4&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29">[Youtube link]</a></li>
+    <li>Basics2Breakthroughs: AI for better networking  <a href="https://www.youtube.com/watch?v=_UMrLybrSJA&ab_channel=BerkeleyLab">[Youtube link]</a></li>
+   <li>Investigating sFlow for Monitoring Networks  <a href="https://blog.sflow.com/2020/11/sflow-monitoring-for-ai.html">[Youtube link]</a></li>
+   <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center     <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
+  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
+   <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
 </ul>
  <br>
  

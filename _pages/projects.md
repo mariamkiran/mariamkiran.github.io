@@ -13,7 +13,6 @@ horizontal: false
 [My page](/temp.html)
 -->
 [Links for AI/ML Research for Network Infrastructure (Wired, wireless and more)](#aimlnet)<br>
-[Links for developing new AI/ML/Optimization Research for Self learning infrastructure](#aiml)<br>
 [Selected press releases](#press)<br>
 [Awards](#award)<br>
 [Patents](#patents)<br>
@@ -38,47 +37,48 @@ horizontal: false
 <li>Netflix data set for movie recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
 </ul>
 
-<br>
 
-<h2 id="aiml">Useful Links: AI and ML and optimization for Self-learning Systems</h2>
-<h3>Data repositories</h3>
-<ul>
-  <li>Algorithms: LM </li>
-</ul>
+
 
 <br>
 
 <h3 id="press">Selected Press</h3>
  <ul>
-   <li>January 16, 2024: Three recent funding awards bolster ORNL’s quantum leadership <a href='https://www.ornl.gov/news/three-recent-funding-awards-bolster-ornls-quantum-leadership'>Link</a></li>
+    <li>January 18, 2024: ORNL’s Quantum Initiatives Flourish with Over $10M in New Funding Awards <a href='https://www.hpcwire.com/off-the-wire/ornls-quantum-initiatives-flourish-with-over-10m-in-new-funding-awards/'>Link</a></li>
+    <li>January 16, 2024: Three recent funding awards bolster ORNL’s quantum leadership <a href='https://www.ornl.gov/news/three-recent-funding-awards-bolster-ornls-quantum-leadership'>Link</a></li>
    <li>Nov 28, 2023: SWARM Project Release <a href='https://renci.org/news/exploring-the-power-of-distributed-intelligence-for-resilient-scientific-workflows/'>Link</a></li>
-      <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>
+    <li>Nov 2021: Career Goals for female researchers, how does one choose between academia and industry?” <a href='https://n2women.comsoc.org/event/meeting-at-sensys-2021/'>Link</a></li>
+    <li>Sept 10th 2021, HPC Wire: Leverage AI and ML for Networks for DOE Workflows <a href="https://www.hpcwire.com/off-the-wire/renci-collaboration-to-leverage-ai-and-ml-for-doe-workflows/">Link</a> </li>
     <li>Jul 21 2021, SSURF: At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering <a href="https://www.es.net/news-and-publications/esnet-news/2021/mariam-kiran-wins-rising-star-award-for-network-engineering/">Link</a> </li>
    <li>Feb. 26, 2021, Using AI to Direct Traffic: Building Self Learning Networks on Chameleon <a href="https://www.chameleoncloud.org/blog/2021/02/26/using-ai-direct-traffic-building-self-learning-networks-chameleon/">Link</a> </li>  
-
     <li>Nov 6, 2020, Machine Learning to Add Another Dimension to ESnet's Toolbox for Predicting Data Patterns
  <a href="https://cs.lbl.gov/news-media/news/2020/machine-learning-to-add-another-dimension-to-esnets-toolbox-for-predicting-data-patterns/">Link</a> </li>
- 
-    <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
+     <li>Oct 19th 2020, Published Blog: One Network Dashboard to Rule them All = NetGraf</li>
    <li>Sept 23rd 2020, Discussing AI for Networking = <a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">AI Control Plane</a></li>
-
+     <li>2017: Women in STEM -“Thinking networks” Mariam Kiran <a href="https://sciencesprings.wordpress.com/2017/12/20/from-ascrdiscovery-women-in-stem-thinking-networks-mariam-kiran/">[Link]</a></li>
     <li>Dec 2nd 2015, University of Bradford lecturer swaps lab coat for legislation<a href="https://www.bradford.ac.uk/news/archive/2015/university-of-bradford-lecturer-swaps-lab-coat-for-legislation.php">Link</a></li>
+    <li>2010,  Issues with Economic and Social systems modelling Mariam Kiran University of Sheffield Future Research Directions in Agent Based Modelling June 2010.<a href="https://slideplayer.com/slide/7585135/">Link</a></li>  
 </ul>
 
-<h3 id="videos">Videos & Talks</h3>
+<h3 id="videos">Abstracts, Videos & Talks</h3>
  <ul>
+   <li>July 2023: Studying TCP Fairness in Transfers over High Throughput Links<a href="[Studying TCP Fairness in Transfers over High Throughput Links](https://www.youtube.com/watch?v=DIcgyiHBz8A&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29)">[Link]</a></li>
+    <li>SC23 demo abstracts <a href="https://scdoe.info/wp-content/uploads/sites/24/2023/11/SC23-DOE-Booth-Press-Release.pdf">[Link]</a></li>
+     <li>SC21 Network Research Exhibition: Publishable Abstract
+HECATE: Towards Self-driving Networks<a href="https://sc21.supercomputing.org/app/uploads/2021/11/SC21-NRE-001.pdf">[Link]</a></li>
    <li>HECATE:Data driven, machine learning dynamic path optimization   <a href="https://www.youtube.com/watch?v=7xnYI3U96_4&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29">[Youtube link]</a></li>
     <li>Basics2Breakthroughs: AI for better networking  <a href="https://www.youtube.com/watch?v=_UMrLybrSJA&ab_channel=BerkeleyLab">[Youtube link]</a></li>
    <li>Investigating sFlow for Monitoring Networks  <a href="https://blog.sflow.com/2020/11/sflow-monitoring-for-ai.html">[Youtube link]</a></li>
    <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center     <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
   <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
    <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
+     <li> Teaching big data processing with open source software, <span style="color:green;"><a href="https://opensource.com/resources/back-school"> [Talk]</a></span>.</li>
 </ul>
  <br>
  
 <h3 id="award">Awards and Recognition</h3>
 <ul>
- <li>Best Paper Award: MLN 2021 Best Paper Award</li>
+ <li>Best Paper Award: MLN 2021 Best Paper Award<a href="https://lightbytes.es.net/2021/12/02/esnet-machine-learning-researchers-win-best-paper-at-mln-2021/">Link</a></li>
  <li>ACM N2Women Rising Star in Communications 2021 </li>
  <li>Faculty Award: New Manager Training HaaS Berkeley 2021</li>         
  <li>Runner up for R&D 100 Award for ESnet Portal 2020</li>

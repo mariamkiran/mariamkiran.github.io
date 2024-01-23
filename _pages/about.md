@@ -12,6 +12,7 @@ profile:
     <p>Room 361, Building 4100</p>
     <p>1 Bethel Valley Road</p>
     <p>Oak Ridge, TN, 37831</p>
+    <p>Phone:(865) 341-2910</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

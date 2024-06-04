@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ornl.gov/group/quantum-communications-networking'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 361, Building 4100</p>

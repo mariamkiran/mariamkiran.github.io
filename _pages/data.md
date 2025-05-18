@@ -1,4 +1,3 @@
-
 ---
 layout: book-shelf
 title: data&projects

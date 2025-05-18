@@ -18,10 +18,10 @@ horizontal: false
 <h2>Pottery and Art exhibitions</h2>
 Instagram link: <a href="https://www.instagram.com/sandcatstudio/">Studio Link</a>
   ![Snaps](/assets/img/pottery.jpg)
-
+(/assets/img/1.jpg)
 <h2>Exploring Emergence Art for Graphics</h2>
 <p>Inspired by complexity research exploring Fractals, emergence, Sim's creatures and more.</p>
-
+(/assets/img/2.jpg)
 <h2>Knitting and Sewing Project Blogs</h2>
 Ravelry link: <a href="https://www.ravelry.com/people/MariumKiran/">Ravelry Profile</a>
 

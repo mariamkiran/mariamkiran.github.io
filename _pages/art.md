@@ -1,24 +1,29 @@
 ---
-layout: pages
-title: creatives
-permalink: /creatives/
+layout: page
+title: creative
+permalink: /creative/
 description: 
 nav: true
 nav_order: 5
 display_categories: 
-horizontal: 
+horizontal: false
 ---
 
+<!--temp.html
+[My page](/temp.html)
+-->
+ 
+
+
 <h2>Pottery and Art exhibitions</h2>
-Instagram link: <a href="https://www.instagram.com/sandcatstudio/?e=3966bfff-4cdb-486e-98bb-c3bbd965e569&g=5>Studio</a>
-  image: pottery.jpg
-    image_circular: false # crops the image to make it circular
+Instagram link: <a href="https://www.instagram.com/sandcatstudio/">Studio Link</a>
+  ![Snaps](/assets/img/pottery.jpg)
 
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  
+<h2>Exploring Emergence Art for Graphics</h2>
+<p>Inspired by complexity research exploring Fractals, emergence, Sim's creatures and more.</p>
 
+<h2>Knitting and Sewing Project Blogs</h2>
+Ravelry link: <a href="https://www.ravelry.com/people/MariumKiran/">Ravelry Profile</a>
 
 <!--temp.html
 [My page](/temp.html)

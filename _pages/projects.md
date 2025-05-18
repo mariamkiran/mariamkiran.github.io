@@ -1,7 +1,7 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: networking_research
+permalink: /networking_research/
 description: 
 nav: true
 nav_order: 1

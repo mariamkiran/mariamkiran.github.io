@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: book-shelf
 title: data&projects
 permalink: /data/
 nav: true
 horizontal: false
 ---
-
 
 [Links to Talks and Press Releases](#press)<br>
 

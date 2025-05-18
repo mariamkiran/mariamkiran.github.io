@@ -1,7 +1,7 @@
 ---
 layout: page
-title: art
-permalink: /art/
+title: creatives
+permalink: /creatives/
 description: 
 nav: true
 nav_order: 4

@@ -125,11 +125,7 @@ Arizona State University. </li>
 <li> Instigated the ACM-Women professional chapter for UK</li>
 </ul>
 
-<h3 id="bio">Bio</h3>
-Dr. Kiran is Computer Networking and AI Scientist and currently lead Oak Ridge National Lab’s Quantum Networking Group. Her research explores machine learning and decentralized optimization for wide area networks, wireless, and Cloud infrastructures, needed for building 'self-driving networks' with themes for improving network performance, flexibility and high-speed distributed data transfers for science workflows. She received her Ph.D. and MSc (Eng) in Computer Science from the University of Sheffield, UK, in 2011, 2008, respectively. Before joining the lab in 2016, Kiran has worked with Universities of Sheffield, Leeds, Oxford, UCL, UC Berkeley, with industrial collaborations across the world - European, Asia Pacific and US. She also helped develop FLAME, an open-source agent-based platform, currently used worldwide for complexity research.
 
-Her notable awards include the Royal Society Scientist in Westminster in 2015, the 2017 U.S. DOE Early Career Award, and ACM's N2Women Rising Stars in Networking Award in 2021. She is an active member of ACM and a Senior Member of IEEE communities.
-</p>
 
 
 <!--<h2>Other Activities</h2>

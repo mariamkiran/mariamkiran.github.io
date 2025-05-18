@@ -15,7 +15,7 @@ horizontal: false
  
 <h3 id="award">Awards, Media and Recognition</h3>
 <ul>
-   <li>UKStudy Award Finalist:  <a href="https://www.hpcwire.com/off-the-wire/ornls-mariam-kiran-honored-for-quantum-computing-research/">UK Alumni Awards recognized for Science Impact in the World, 2024 </a></li>
+   <li>UKStudy Award Finalist:  <a href="https://www.hpcwire.com/off-the-wire/ornls-mariam-kiran-honored-for-quantum-computing-research/">UK Alumni Awards recognized for Global Science Impact by UK Alums, 2024 </a></li>
    <li>Best Paper Award: INDIS 2024 Best Paper Award:  <a href="https://impact.ornl.gov/en/publications/framework-for-integrating-machine-learning-methods-for-path-aware">Framework for Integrating Machine Learning Methods for Path-Aware Source Routing</a></li>
  <li>Best Paper Award: MLN 2021 Best Paper Award<a href="https://lightbytes.es.net/2021/12/02/esnet-machine-learning-researchers-win-best-paper-at-mln-2021/">Link</a></li>
  <li>ACM N2Women Rising Star in Communications 2021 </li>

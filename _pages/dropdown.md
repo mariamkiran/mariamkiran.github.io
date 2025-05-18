@@ -6,7 +6,7 @@ nav_order: 3
 dropdown: true
 children:
   - title: test
-    permalink: /creative/
+    permalink: /art/
   - title: divider
   - title: data&projects
     permalink: /data/

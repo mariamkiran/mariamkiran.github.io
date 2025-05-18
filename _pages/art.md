@@ -18,7 +18,7 @@ horizontal: false
 <h2>Pottery and Art exhibitions</h2>
 Instagram link: <a href="https://www.instagram.com/sandcatstudio/">Studio Link</a>
   
-  {% include figure.liquid loading="eager" path="assets/img/IMG_3428.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/IMG_3428.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
     

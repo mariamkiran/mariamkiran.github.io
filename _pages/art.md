@@ -18,7 +18,7 @@ horizontal: false
 <h2>Pottery and Art exhibitions</h2>
 Instagram link: <a href="https://www.instagram.com/sandcatstudio/">Studio Link</a>
   
-<img src="assets/img/6.jpg" class="img-fluid" alt="Responsive image">
+<img src="../assets/img/6.jpg" class="img-fluid" alt="Responsive image">
 
     
 (/assets/img/1.jpg)

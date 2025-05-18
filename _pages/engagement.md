@@ -35,3 +35,9 @@ horizontal: false
  <li>Provisional Patent Application based on technology: Reinforcement Learning for Quantum Network Control, 2021       
  </li>
 </ul>
+
+<h3 id="bio">Bio</h3>
+Dr. Kiran is Computer Networking and AI Scientist. She currently leads the Quantum communications and Networking at Oak Ridge National Lab. Her research explores AI, machine learning and decentralized optimization for wide area networks, wireless, and Cloud and Quantum infrastructures. Her themes center around self-driving networks or networks that can think. She received her Ph.D. and MSc (Eng) in Computer Science from the University of Sheffield, UK, in 2011, 2008, respectively. Before joining the lab in 2023, Kiran worked at ESnet in Lawrence Berkeley National Laboratory, developing AI for wide area networks. She also helped develop FLAME, an open-source agent-based platform, currently used worldwide for complexity research.
+
+Her notable awards include the British Council's recognition for Gloabl Science Impact by UK Alumni in 2024, Royal Society's Scientist in Westminster in 2015, the 2017 U.S. DOE Early Career Award, and ACM's N2Women Rising Stars in Networking Award in 2021. She is an active member of ACM and a Senior Member of IEEE communities.
+

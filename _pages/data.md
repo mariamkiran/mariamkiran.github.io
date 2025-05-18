@@ -1,8 +1,8 @@
 ---
-layout: book-shelf
+layout: page
 title: data&projects
 permalink: /data/
-nav: false
+nav: true
 horizontal: false
 ---
 

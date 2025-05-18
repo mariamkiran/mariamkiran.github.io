@@ -7,14 +7,11 @@ horizontal: false
 ---
 
 
-[Links for AI/ML Research for Network Infrastructure (Wired, wireless and more)](#aimlnet)<br>
-[Selected press releases](#press)<br>
-[Research projects](#resprj)<br>
+[Links to Talks and Press Releases](#press)<br>
 
 
-<br>
-<h2 id="aimlnet">Useful Links: AI and ML for Networks</h2>
-<h3>Data repositories</h3>
+
+<h3>Collected Networking Data repositories</h3>
 <ul>
   <li> <a href='https://catalog.caida.org/search?query=types=dataset%20links=tag:caida%20'>CAIDA</a>: Great resource for Internet Data.</li>
   <li> <ul>TCP Statistics:
@@ -34,6 +31,53 @@ horizontal: false
 
 <br>
 
+                    
+<h3 id="resprj">Funded Profile</h3>
+  <ul>
+    <li>SWARM(PI, Ewa Deelman USC). Funded by DOE</li>
+ <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE</li>
+<li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD</li>
+<li>   <a href="https://sites.google.com/view/poseidon-workflows/home"> POSEIDON </a>(PI, Ewa Deelman USC). Funded by DOE</li>
+
+   <li>   AI for Quantum Transducer (LDRD, PI Mekena Metcalf) </li>
+  <li>    Uncertainty Quantification for Hyper parameter tuning (HYPPO, PI Julianne Mueller)</li>
+  <li>DAPHNE  <a href="https://sites.google.com/lbl.gov/daphne/">DAPHNE HOME</a> (PI,Kiran)</li>
+                <li> PANORAMA <a href="https://panorama360.github.io/">Panorama Website</a>                </li>
+                <li>Agent-based Models <a href="https://flame.ac.uk/">FLAME Framework</a>                </li>
+                <li> Intent-based Network <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a></li>
+                   <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
+                  <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
+                </ul>
+
+<br>
+
+
+<h3 id="videos">Abstracts, Videos & Talks</h3>
+ <ul>
+   <li><a href="https://www.youtube.com/watch?v=ltUjR2gcNDw">SIAM Talk</a></li>
+   <li><a href="https://www.youtube.com/watch?v=C_GX7u1580E">WOMANIUM Talk</a></li>
+   <li>July 2023: Studying TCP Fairness in Transfers over High Throughput Links<a href="[Studying TCP Fairness in Transfers over High Throughput Links](https://www.youtube.com/watch?v=DIcgyiHBz8A&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29)">[Link]</a></li>
+    <li>SC23 demo abstracts <a href="https://scdoe.info/wp-content/uploads/sites/24/2023/11/SC23-DOE-Booth-Press-Release.pdf">[Link]</a></li>
+     <li>SC21 Network Research Exhibition: Publishable Abstract
+HECATE: Towards Self-driving Networks<a href="https://sc21.supercomputing.org/app/uploads/2021/11/SC21-NRE-001.pdf">[Link]</a></li>
+   <li>HECATE:Data driven, machine learning dynamic path optimization   <a href="https://www.youtube.com/watch?v=7xnYI3U96_4&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29">[Youtube link]</a></li>
+    <li>Basics2Breakthroughs: AI for better networking  <a href="https://www.youtube.com/watch?v=_UMrLybrSJA&ab_channel=BerkeleyLab">[Youtube link]</a></li>
+   <li>Investigating sFlow for Monitoring Networks  <a href="https://blog.sflow.com/2020/11/sflow-monitoring-for-ai.html">[Youtube link]</a></li>
+   <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center     <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
+  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
+   <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
+     <li> Teaching big data processing with open source software, <span style="color:green;"><a href="https://opensource.com/resources/back-school"> [Talk]</a></span>.</li>
+</ul>
+ <br>
+
+ <br>
+
+
+
+
+
+
+   
 <h3 id="press">Selected Press</h3>
  <ul>
     <li>January 18, 2024: ORNL’s Quantum Initiatives Flourish with Over $10M in New Funding Awards <a href='https://www.hpcwire.com/off-the-wire/ornls-quantum-initiatives-flourish-with-over-10m-in-new-funding-awards/'>Link</a></li>
@@ -51,58 +95,8 @@ horizontal: false
     <li>Dec 2nd 2015, University of Bradford lecturer swaps lab coat for legislation<a href="https://www.bradford.ac.uk/news/archive/2015/university-of-bradford-lecturer-swaps-lab-coat-for-legislation.php">Link</a></li>
     <li>2010,  Issues with Economic and Social systems modelling Mariam Kiran University of Sheffield Future Research Directions in Agent Based Modelling June 2010.<a href="https://slideplayer.com/slide/7585135/">Link</a></li>  
 </ul>
-
-<h3 id="videos">Abstracts, Videos & Talks</h3>
- <ul>
-   <li>July 2023: Studying TCP Fairness in Transfers over High Throughput Links<a href="[Studying TCP Fairness in Transfers over High Throughput Links](https://www.youtube.com/watch?v=DIcgyiHBz8A&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29)">[Link]</a></li>
-    <li>SC23 demo abstracts <a href="https://scdoe.info/wp-content/uploads/sites/24/2023/11/SC23-DOE-Booth-Press-Release.pdf">[Link]</a></li>
-     <li>SC21 Network Research Exhibition: Publishable Abstract
-HECATE: Towards Self-driving Networks<a href="https://sc21.supercomputing.org/app/uploads/2021/11/SC21-NRE-001.pdf">[Link]</a></li>
-   <li>HECATE:Data driven, machine learning dynamic path optimization   <a href="https://www.youtube.com/watch?v=7xnYI3U96_4&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29">[Youtube link]</a></li>
-    <li>Basics2Breakthroughs: AI for better networking  <a href="https://www.youtube.com/watch?v=_UMrLybrSJA&ab_channel=BerkeleyLab">[Youtube link]</a></li>
-   <li>Investigating sFlow for Monitoring Networks  <a href="https://blog.sflow.com/2020/11/sflow-monitoring-for-ai.html">[Youtube link]</a></li>
-   <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center     <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>
-  <li>At NERSC lunch time talks: Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models, NERSC Data Seminars,   <span style="color:green;"><a href="https://www.youtube.com/embed/CJp_oXcgerU">[Youtube link]</a></span>. </li>
-   <li> iNDIRA Demo (SC16), <span style="color:green;"><a href="https://www.youtube.com/watch?v=qrN7VVmtxPs&feature=youtu.be"> [Youtube Talk]</a></span>.</li>
-     <li> Teaching big data processing with open source software, <span style="color:green;"><a href="https://opensource.com/resources/back-school"> [Talk]</a></span>.</li>
-</ul>
- <br>
-
- <br>
-                    
-<h3 id="resprj">Research Projects</h3>
-  <ul>
-    <li>SWARM(PI, Ewa Deelman USC). Funded by DOE</li>
- <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE</li>
-<li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD</li>
-<li>   <a href="https://sites.google.com/view/poseidon-workflows/home"> POSEIDON </a>(PI, Ewa Deelman USC). Funded by DOE</li>
-
-   <li>   AI for Quantum Transducer (LDRD, PI Mekena Metcalf) </li>
-  <li>    Uncertainty Quantification for Hyper parameter tuning (HYPPO, PI Julianne Mueller)</li>
-  <li>DAPHNE  <a href="https://sites.google.com/lbl.gov/daphne/">DAPHNE HOME</a> (PI,Kiran)</li>
-                <li> PANORAMA <a href="https://panorama360.github.io/">Panorama Website</a>                </li>
-                <li>Agent-based Models <a href="https://flame.ac.uk/">FLAME Framework</a>                </li>
-                <li> Intent-based Network <a href="http://es.net/network-r-and-d/">ESnet R&D Pages</a></li>
-                   <li>Deep Learning based control for Lasers and Accelerators (LBNL-funded), Collaborating with <a href="https://als.lbl.gov/people/qiang-du/">Qiang Du</a></li>
-                  <li>Deep reinforcement learning for Smart Build Control (Flexlab), Collaborating with <a href="https://eta.lbl.gov/people/samir-touzani">Samir Touzani</a></li>
-                </ul>
-
-
-
-
 <br>
-
-<h3>Older Blog Posts</h3>
-<ul><li>
-<a href="https://aicontrolplane.blogspot.com/2020/10/one-dashboard-for-complete-network.html">
- One Dashboard for Complete Network Health Check</a> </li>
- <li>
-<a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">Engineering critique on "Can AI help solve some of the challenges we face in network operations"?</a> 
-       </li>
-   </ul>
-   
-<br>
-
+<h2>Other Activities</h2>
 <h3>Professional Services</h3>
 <ul>
  <li>Programme Committee for CCGrid, Supercomputing, IPDPS (since 2019)</li>
@@ -118,7 +112,16 @@ Arizona State University. </li>
 </ul>
 
 
+<h3>Older Blog Posts</h3>
+<ul><li>
+<a href="https://aicontrolplane.blogspot.com/2020/10/one-dashboard-for-complete-network.html">
+ One Dashboard for Complete Network Health Check</a> </li>
+ <li>
+<a href="https://aicontrolplane.blogspot.com/2020/09/engineering-critique-on-can-ai-help.html">Engineering critique on "Can AI help solve some of the challenges we face in network operations"?</a> 
+       </li>
+   </ul>
 
+   <br>
 
 <!--<h2>Other Activities</h2>
 <ul>

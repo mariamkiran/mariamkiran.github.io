@@ -20,6 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+2024 UKStudy Award Finalist (British Council)<br>
 2021 Rising Star in Networking and Communications (ACM N2Women)<br>
 2017 US Department of Energy (DOE) Early Career Award<br>
 2016 UK Royal Society Scientist at Westminister<br>

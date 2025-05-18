@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 **Email: kiranm@ornl.gov**<br>
 
     
-I am a Computer Networking and AI Scientist and currently serve as Group Lead to ORNL’s Quantum Networking and Communications Group. My research explores AI/ML solutions for improving network performance, flexibility and high-speed distributed data transfers for science. Involving themes of deep learning, software engineering and complex networks, I have developed solutions for optimizing data movement, TCP/IP protocols, learning controllers for Wide area network (WANs), wireless/5G (& Beyond) and Quantum networked devices. My research impacts DOE’s infrastructure used for high-energy physics, neutron science, materials science, biology, ecology, smart grids and nuclear energy applications.
+I am a Computer Networking and AI Scientist and currently serve as Group Lead to ORNL’s Quantum Networking and Communications Group. My research explores AI/ML solutions for improving network performance, flexibility and high-speed distributed data transfers for science. Involving themes of deep learning, software engineering and complex networks, I have developed solutions for optimizing data movement, TCP/IP protocols, learning controllers for Wide area network (WANs), wireless/5G (& Beyond) and Quantum networked devices. My research impacts DOE’s infrastructure used for high-energy physics, neutron science, materials science, biology, ecology, smart grids and nuclear energy applications.<br>
 My themes include: Self-Driving Networks, Intelligent Networks or Networks that can think!
 
 <h3>Code</h3>

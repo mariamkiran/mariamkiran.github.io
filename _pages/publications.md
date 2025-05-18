@@ -9,7 +9,7 @@ nav_order: 2
 
 <h3>Quick Links</h3>
 
-Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
+Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> 
 
 <br>
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.

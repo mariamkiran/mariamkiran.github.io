@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ornl.gov/group/quantum-communications-networking'>Group Leader for Quantum Communications and Networking</a> at <b>Oak Ridge National Laboratory</b> 
+subtitle: Group Leader for Quantum Communications and Networking, <b>Oak Ridge National Laboratory</b> 
 
 profile:
   align: right
@@ -27,12 +27,12 @@ social: true  # includes social icons at the bottom of the page
 
     
 I am a Computer Networking and AI Scientist and currently serve as Group Lead to ORNL’s Quantum Networking and Communications Group. My research explores AI/ML solutions for improving network performance, flexibility and high-speed distributed data transfers for science. Involving themes of deep learning, software engineering and complex networks, I have developed solutions for optimizing data movement, TCP/IP protocols, learning controllers for Wide area network (WANs), wireless/5G (& Beyond) and Quantum networked devices. My research impacts DOE’s infrastructure used for high-energy physics, neutron science, materials science, biology, ecology, smart grids and nuclear energy applications.
-
+My themes include: Self-Driving Networks, Intelligent Networks or Networks that can think!
 
 <h3>Code</h3>
 Feel free to reach out to me about following resources/code I maintain.
 <ul>
-  <li>My Github Organization on <a href="https://github.com/SelfDrivingNetworkLab">Self-driving Networks</a>: Collection of deep learning solutions for network engineering with key softwares such as Traffic Prediction, InDIRA (Intent based networking) and HECATE (AI-enabled traffic engineering).</li>
+  <li>My Own Github Organization: <a href="https://github.com/SelfDrivingNetworkLab">Self-driving Networks</a>: Collection of deep learning solutions for network engineering with key softwares such as Traffic Prediction, InDIRA (Intent based networking) and HECATE (AI-enabled traffic engineering).</li>
 </ul>
 
 
@@ -41,7 +41,7 @@ Feel free to reach out to me about following resources/code I maintain.
    <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
   <li>List of talks: </li>
     <li>
-    My Thoughts: <a href='Medium, PacketPushers'></a> </li>
+    <!--My Thoughts: <a href='Medium, PacketPushers'></a> </li>-->
 </ul>
 
 

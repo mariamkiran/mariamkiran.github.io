@@ -2,6 +2,7 @@
 layout: page
 title: data&projects
 permalink: /data/
+nav: true
 ---
 
 [Links to Talks and Press Releases](#press)<br>

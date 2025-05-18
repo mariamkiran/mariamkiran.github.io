@@ -7,9 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-My research involves (1) developing AI/ML solutions for networking infrastructure (wired, wireless and more). Additionally I also research (2) new optimization and AI approaches that can be used for these self-learning systems.
+<h3>Quick Links</h3>
 
+Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
 
+<br>
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 
 <!-- _pages/publications.md -->

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: engagement
-permalink: /engagement/
+title: awards&bio
+permalink: /awards&bio/
 description: 
 nav: true
 nav_order: 3

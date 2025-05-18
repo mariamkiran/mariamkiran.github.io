@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: networking_research
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: art
+    permalink: /art/
   - title: divider
   - title: blog
     permalink: /blog/

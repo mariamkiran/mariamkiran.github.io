@@ -5,8 +5,6 @@ title: data
 permalink: /data/
 description: 
 nav: false
-nav_order: 
-display_categories: 
 horizontal: false
 ---
 

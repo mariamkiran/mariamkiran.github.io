@@ -2,7 +2,7 @@
 layout: book-shelf
 title: data&projects
 permalink: /data/
-nav: true
+nav: false
 nav_order:
 horizontal: false
 ---

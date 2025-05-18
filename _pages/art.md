@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: pages
 title: creatives
 permalink: /creatives/
 description: 

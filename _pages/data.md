@@ -1,16 +1,14 @@
 
 ---
 layout: page
-title: data
+title: data&projects
 permalink: /data/
 description: 
 nav: false
 horizontal: false
 ---
 
-<!--temp.html
-[My page](/temp.html)
--->
+
 [Links for AI/ML Research for Network Infrastructure (Wired, wireless and more)](#aimlnet)<br>
 [Selected press releases](#press)<br>
 [Research projects](#resprj)<br>

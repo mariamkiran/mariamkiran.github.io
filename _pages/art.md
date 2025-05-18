@@ -18,12 +18,14 @@ horizontal: false
 <h2>Pottery and Art exhibitions</h2>
 Instagram link: <a href="https://www.instagram.com/sandcatstudio/">Studio Link</a>
   
-<img src="../assets/img/IMG_3428.jpg" class="img-fluid" alt="Responsive image">
+<img src="../assets/img/IMG_3428.jpg" class="img-fluid" alt="pots">
 
     
-(/assets/img/1.jpg)
+
 <h2>Exploring Emergence Art for Graphics</h2>
-<p>Inspired by complexity research exploring Fractals, emergence, Sim's creatures and more.</p>
+<p>Inspired by complexity research exploring Fractals, emergence, Sim's creatures and more showing up in my pieces</p>
+<img src="../assets/img/fractals.png" class="img-fluid" alt="Fractals">
+<img src="../assets/img/cellularaut.png" class="img-fluid" alt="CA">
 
 <h2>Knitting and Sewing Project Blogs</h2>
 Ravelry link: <a href="https://www.ravelry.com/people/MariumKiran/">Ravelry Profile</a>

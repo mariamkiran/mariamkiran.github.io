@@ -3,8 +3,8 @@ layout: page
 title: networking_research
 permalink: /networking_research/
 description: 
-nav: true
-nav_order: 1
+nav: false
+nav_order: 
 display_categories: 
 horizontal: false
 ---

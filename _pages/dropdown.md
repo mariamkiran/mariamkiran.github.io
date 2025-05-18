@@ -9,5 +9,5 @@ children:
     permalink: /art/
   - title: divider
   - title: data
-    permalink: /projects/
+    permalink: /ndata/
 ---

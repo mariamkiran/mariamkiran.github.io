@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Group Leader for Quantum Communications and Networking, <b>Oak Ridge National Laboratory</b> 
+subtitle: <b>Group Leader for Quantum Communications and Networking, Oak Ridge National Laboratory</b> 
 
 profile:
   align: right

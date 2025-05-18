@@ -3,6 +3,7 @@ layout: book-shelf
 title: data&projects
 permalink: /data/
 nav: true
+nav_order:
 horizontal: false
 ---
 

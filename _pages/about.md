@@ -40,7 +40,7 @@ Feel free to reach out to me about following resources/code I maintain.
 <h3>Writing & Media </h3>
 <ul>
    <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
-  <li>List of talks: on Linkedin Featured</li>
+  <li>List of talks: Check under "Networking Research" tab</li>
   <!--  <li>My Thoughts: <a href='Medium, PacketPushers'></a> </li>-->
 </ul>
 

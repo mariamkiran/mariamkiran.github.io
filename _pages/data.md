@@ -97,6 +97,8 @@ HECATE: Towards Self-driving Networks<a href="https://sc21.supercomputing.org/ap
 <h2>Other Activities</h2>
 <h3>Professional Services</h3>
 <ul>
+   <li>Architecture and Networks Vice Chair (Supercomputing 2025)</li>
+   <li>QCE25 Quantum Networking & Communications Papers Track Program Chair (QNET) IEEE Quantum Week 2025</li>
  <li>Programme Committee for CCGrid, Supercomputing, IPDPS (since 2019)</li>
  <li>INDIS Committee by Scinet (since 2021)</li>
 <li>Fellowship co-chair for N2Women for improving women researchers at Networking Conferences (2018-2020) </li>

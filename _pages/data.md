@@ -59,6 +59,7 @@ nav: true
      <li>SC21 Network Research Exhibition: Publishable Abstract
 HECATE: Towards Self-driving Networks<a href="https://sc21.supercomputing.org/app/uploads/2021/11/SC21-NRE-001.pdf">[Link]</a></li>
    <li>HECATE:Data driven, machine learning dynamic path optimization   <a href="https://www.youtube.com/watch?v=7xnYI3U96_4&ab_channel=EngagementandPerformanceOperationsCenter%28EPOC%29">[Youtube link]</a></li>
+   <li>Networking Data for GEANT talk https://www.youtube.com/watch?v=wjFu-FWczBc </li>
     <li>Basics2Breakthroughs: AI for better networking  <a href="https://www.youtube.com/watch?v=_UMrLybrSJA&ab_channel=BerkeleyLab">[Youtube link]</a></li>
    <li>Investigating sFlow for Monitoring Networks  <a href="https://blog.sflow.com/2020/11/sflow-monitoring-for-ai.html">[Youtube link]</a></li>
    <li>EVIAN: tool to enable intents to be deployed on network links, EPOC - Engagement Performance Operations Center     <a href="https://www.youtube.com/watch?v=GdJnN2gOFD4">[Youtube link]</a></li>

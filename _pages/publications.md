@@ -15,8 +15,9 @@ Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 
 <!-- _pages/publications.md -->
-<div class="publications">
+<!--<div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
+</div>-->
+ 

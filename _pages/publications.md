@@ -12,8 +12,7 @@ nav_order: 2
 
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 
-<!-- _pages/publications.md -->
-<!--<div class="publications">{% bibliography -f {{ site.scholar.bibliography }} %}</div>-->
+
 
 <h3>Books Published</h3>
 <ul>

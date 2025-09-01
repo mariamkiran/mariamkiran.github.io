@@ -9,7 +9,7 @@ nav_order: 2
 
 
 <h3>Publications</h3>
-<br>
+
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 
 <!-- _pages/publications.md -->
@@ -44,7 +44,7 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
 <li>The EURACE agent-based economic model-benchmarking, assessment and optimization:<a href ="www.flame.ac.uk"> Repo</a></li>
 <li>OPTIMIS: Cloud Broker Architecture:<a href ="www.flame.ac.uk"> Repo</a></li>
 </ul>
-</br>
+<br>
 <h3>Patents</h3>
 <ul>
  <li>Autonomous traffic (self-driving) network with traffic classes and passive and active learning, M Kiran, N Buraglio, S Campbell, US Patent App. 18/052,614</li>

@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-<h3>Publications</h3>
+<h3>Papers published:</h3>
 
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&hl=en">Google Scholar</a> and <a href="https://dblp.org/pid/86/578">DBLP</a>.
 

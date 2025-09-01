@@ -27,7 +27,9 @@ social: true  # includes social icons at the bottom of the page
 **Email: kiranm@ornl.gov**<br>
 
     
-I am a Computer Networking and AI Scientist and currently serve as Group Lead to ORNL’s Quantum Networking and Communications Group. My research explores AI/ML solutions for improving network performance, flexibility and high-speed distributed data transfers for science. Involving themes of deep learning, software engineering and complex networks, I have developed solutions for optimizing data movement, TCP/IP protocols, learning controllers for Wide area network (WANs), wireless/5G (& Beyond) and Quantum networked devices. My research impacts DOE’s infrastructure used for high-energy physics, neutron science, materials science, biology, ecology, smart grids and nuclear energy applications.<br>
+I am an AI Scientist who develops AI and distributed intelligence solutions for Computer Networking - Wide area networks, Wireless and Quantum Networking.<br>
+I currently serve as the Group Lead for Quantum Networking and Communications Group at Oak Ridge National Lab. <br>
+Research: I explore AI/ML solutions for improving network performance for high-speed distributed data movement and science transfers such as in US DOE science challenges (e.g. high-energy physics, plant ecology, nuclear energy applications and more). I use techniques from deep learning, software engineering, game theory and swarm intelligence.<br>
 My themes include: Self-Driving Networks, Intelligent Networks or Networks that can think!
 
 <h3>Code</h3>
@@ -40,7 +42,7 @@ Feel free to reach out to me about following resources/code I maintain.
 <h3>Writing & Media </h3>
 <ul>
    <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
-  <li>List of talks: Check under "Networking Research" tab</li>
+  <li>List of talks: Check under "Networking Research" tab.</li>
   <!--  <li>My Thoughts: <a href='Medium, PacketPushers'></a> </li>-->
 </ul>
 

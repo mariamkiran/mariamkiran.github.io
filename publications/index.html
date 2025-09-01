@@ -139,65 +139,75 @@
 More updated list can be found on <a href="https://scholar.google.com/citations?user=QlT-EWQAAAAJ&amp;hl=en" rel="external nofollow noopener" target="_blank">Google Scholar</a> and <a href="https://dblp.org/pid/86/578" rel="external nofollow noopener" target="_blank">DBLP</a>.</p>
 
 <!-- _pages/publications.md -->
-<div class="publications">
+<!--<div class="publications">
 
 <h2 class="bibliography">2025</h2>
-<ol class="bibliography">
-<li>
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"></div>
+<ol class="bibliography"><li><!-- _layouts/bib.html -->
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;div class="row"&gt;
+    &lt;div class="col-sm-2 abbr"&gt;&lt;/div&gt;
 
-        <!-- Entry bib key -->
-        <div id="RAGHAVAN2025107608" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">Advancing anomaly detection in computational workflows with active learning</div>
-        <!-- Author -->
-        <div class="author">
-        
+    &lt;!-- Entry bib key --&gt;
+    &lt;div id="RAGHAVAN2025107608" class="col-sm-8"&gt;
+    &lt;!-- Title --&gt;
+    &lt;div class="title"&gt;Advancing anomaly detection in computational workflows with active learning&lt;/div&gt;
+    &lt;!-- Author --&gt;
+    &lt;div class="author"&gt;
+    
 
-        Krishnan Raghavan, George Papadimitriou, Hongwei Jin, and
-          <span class="more-authors" title="click to view 4 more authors" onclick="
-                var element = $(this);
-                element.attr('title', '');
-                var more_authors_text = element.text() == '4 more authors' ? 'Anirban Mandal, Mariam Kiran, Prasanna Balaprakash, Ewa Deelman' : '4 more authors';
-                var cursorPosition = 0;
-                var textAdder = setInterval(function(){
-                  element.text(more_authors_text.substring(0, cursorPosition + 1));
-                  if (++cursorPosition == more_authors_text.length){
-                    clearInterval(textAdder);
-                  }
-              }, '10');
-              ">4 more authors</span>
-</div>
+    Krishnan Raghavan,&amp;nbsp;George Papadimitriou,&amp;nbsp;Hongwei Jin, and
+      &lt;span
+          class="more-authors"
+          title="click to view 4 more authors"
+          onclick="
+            var element = $(this);
+            element.attr('title', '');
+            var more_authors_text = element.text() == '4 more authors' ? 'Anirban Mandal, Mariam Kiran, Prasanna Balaprakash, Ewa Deelman' : '4 more authors';
+            var cursorPosition = 0;
+            var textAdder = setInterval(function(){
+              element.text(more_authors_text.substring(0, cursorPosition + 1));
+              if (++cursorPosition == more_authors_text.length){
+                clearInterval(textAdder);
+              }
+          }, '10');
+          "
+      &gt;4 more authors&lt;/span&gt;&lt;/div&gt;
 
-        <!-- Journal/Book title and date -->
-        
-        
-        <div class="periodical">
-          <em>Future Generation Computer Systems</em>, 2025
-        </div>
-        <div class="periodical">
+    &lt;!-- Journal/Book title and date --&gt;
+    
+    
+    &lt;div class="periodical"&gt;
+      &lt;em&gt;Future Generation Computer Systems&lt;/em&gt;, 2025
+    &lt;/div&gt;
+    &lt;div class="periodical"&gt;
+      
+    &lt;/div&gt;
+
+      &lt;!-- Links/Buttons --&gt;
+      &lt;div class="links"&gt;
+        &lt;a class="abstract btn btn-sm z-depth-0" role="button"&gt;Abs&lt;/a&gt;
+      &lt;/div&gt;
+      
+      &lt;div class="badges"&gt;
+        &lt;span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
           
-        </div>
-
-          <!-- Links/Buttons -->
-          <div class="links">
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-          </div>
+            data-doi="https://doi.org/10.1016/j.future.2024.107608"
           
-          <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="https://doi.org/10.1016/j.future.2024.107608"></span>
-              <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1016/j.future.2024.107608" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
-          </div>
+          &gt;&lt;/span&gt;
+          &lt;span class="__dimensions_badge_embed__"
+          
+            data-doi="https://doi.org/10.1016/j.future.2024.107608"
+          
+          data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"&gt;&lt;/span&gt;
+      &lt;/div&gt;
 
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>A computational workflow, also known as workflow, consists of tasks that are executed in a certain order to attain a specific computational campaign. Computational workflows are commonly employed in science domains, such as physics, chemistry, genomics, to complete large-scale experiments in distributed and heterogeneous computing environments. However, running computations at such a large scale makes the workflow applications prone to failures and performance degradation, which can slowdown, stall, and ultimately lead to workflow failure. Learning how these workflows behave under normal and anomalous conditions can help us identify the causes of degraded performance and subsequently trigger appropriate actions to resolve them. However, learning in such circumstances is a challenging task because of the large volume of high-quality historical data needed to train accurate and reliable models. Generating such datasets not only takes a lot of time and effort but it also requires a lot of resources to be devoted to data generation for training purposes. Active learning is a promising approach to this problem. It is an approach where the data is generated as required by the machine learning model and thus it can potentially reduce the training data needed to derive accurate models. In this work, we present an active learning approach that is supported by an experimental framework, Poseidon-X, that utilizes a modern workflow management system and two cloud testbeds. We evaluate our approach using three computational workflows. For one workflow we run an end-to-end live active learning experiment, for the other two we evaluate our active learning algorithms using pre-captured data traces provided by the Flow-Bench benchmark. Our findings indicate that active learning not only saves resources, but it also improves the accuracy of the detection of anomalies.</p>
-          </div>
-        </div>
-      </div>
-</li>
+      &lt;!-- Hidden abstract block --&gt;
+      &lt;div class="abstract hidden"&gt;
+        &lt;p&gt;A computational workflow, also known as workflow, consists of tasks that are executed in a certain order to attain a specific computational campaign. Computational workflows are commonly employed in science domains, such as physics, chemistry, genomics, to complete large-scale experiments in distributed and heterogeneous computing environments. However, running computations at such a large scale makes the workflow applications prone to failures and performance degradation, which can slowdown, stall, and ultimately lead to workflow failure. Learning how these workflows behave under normal and anomalous conditions can help us identify the causes of degraded performance and subsequently trigger appropriate actions to resolve them. However, learning in such circumstances is a challenging task because of the large volume of high-quality historical data needed to train accurate and reliable models. Generating such datasets not only takes a lot of time and effort but it also requires a lot of resources to be devoted to data generation for training purposes. Active learning is a promising approach to this problem. It is an approach where the data is generated as required by the machine learning model and thus it can potentially reduce the training data needed to derive accurate models. In this work, we present an active learning approach that is supported by an experimental framework, Poseidon-X, that utilizes a modern workflow management system and two cloud testbeds. We evaluate our approach using three computational workflows. For one workflow we run an end-to-end live active learning experiment, for the other two we evaluate our active learning algorithms using pre-captured data traces provided by the Flow-Bench benchmark. Our findings indicate that active learning not only saves resources, but it also improves the accuracy of the detection of anomalies.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/li&gt;</p>
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
@@ -278,7 +288,7 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
         </div>
       </div>
 </li>
-</ol>
+<p>&lt;/ol&gt;</p>
 <h2 class="bibliography">2024</h2>
 <ol class="bibliography">
 <li>
@@ -6205,7 +6215,8 @@ More updated list can be found on <a href="https://scholar.google.com/citations?
       </div>
 </li></ol>
 
-</div>
+<p>&lt;/div&gt;–&gt;</p>
+
 
           </article>
 </div>

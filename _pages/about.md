@@ -30,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
 I am an AI Scientist who develops AI and distributed intelligence solutions for Computer Networking - Wide area networks, Wireless and Quantum Networking.<br>
 I currently serve as the Group Lead for Quantum Networking and Communications Group at Oak Ridge National Lab. <br>
 Research: I explore AI/ML solutions for improving network performance for high-speed distributed data movement and science transfers such as in US DOE science challenges (e.g. high-energy physics, plant ecology, nuclear energy applications and more). I use techniques from deep learning, software engineering, game theory and swarm intelligence.<br>
-My themes include: **Self-Driving Networks, Intelligent Networks or Networks that can think!**
+My themes are: **Self-Driving Networks, Intelligent Networks or Networks that can think!**
 
 <h3>Code</h3>
 Feel free to reach out to me about following resources/code I maintain.

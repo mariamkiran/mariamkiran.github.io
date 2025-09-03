@@ -47,7 +47,7 @@ Feel free to reach out to me about following resources/code I maintain.
 <h3>Featured Articles & Media </h3>
 <ul>
    <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
-  <li>Quantum ZeitGiest: <a href="https://quantumzeitgeist.com/quantum-computing-researcher-mariam-kiran-honored-by-british-council/">Quantum Computing Researcher Mariam Kiran Honored by British Council. with <a href="https://www.ornl.gov/news/kiran-honored-quantum-computing-research">Details</a>.</li>
+  <li>Quantum ZeitGiest: <a href="https://quantumzeitgeist.com/quantum-computing-researcher-mariam-kiran-honored-by-british-council/">Quantum Computing Researcher Mariam Kiran Honored by British Council</a>. with <a href="https://www.ornl.gov/news/kiran-honored-quantum-computing-research">Details</a>.</li>
   <li>SSURF Society for Science at User Facilities: <a href="https://ssurf.org/at-esnet-mariam-kiran-wins-rising-star-award-for-network-engineering/">At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</a></li>
   <li><a href="https://www.youtube.com/watch?v=ltUjR2gcNDw">Featured Talk at SIAM</a>.</li>
   <li><a href="https://www.youtube.com/watch?v=C_GX7u1580E">Featured Talk at WOMANIUM</a>.</li>

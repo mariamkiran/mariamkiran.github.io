@@ -35,7 +35,7 @@ Dr. Kiran's research explores AI/ML solutions for improving network performance 
 Dr. Kiran has been recognized as a 2021 ACM rising star for networking, UKStudy alumni by the British Council, 2017 DOE Early Career and 2016 Royal Society Scientist in Westminster.
 
 <br>
-Keyworks: deep learning, software engineering, game theory and swarm intelligence, **Self-Driving Networks, Intelligent Networks or Networks that can think!**
+Keywords: deep learning, software engineering, game theory and swarm intelligence, **Self-Driving Networks, Intelligent Networks or Networks that can think!**
 
 <h3>Code Repository</h3>
 Feel free to reach out to me about following resources/code I maintain.

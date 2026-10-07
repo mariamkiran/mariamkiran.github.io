@@ -7,7 +7,7 @@ dropdown: true
 children:
 - title: data&projects
     permalink: /data/
-   - title: divider
-  - title: Publications
+- title: divider
+- title: Publications
     permalink: /publications/
 ---

@@ -5,8 +5,8 @@ nav: true
 nav_order: 3
 dropdown: true
 children:
-  - title: test
-    permalink: /art/
+  - title: publications
+    permalink: /publications/
   - title: divider
   - title: data&projects
     permalink: /data/

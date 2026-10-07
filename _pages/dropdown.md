@@ -1,6 +1,6 @@
 ---
 layout: page
-title: networking_research
+title: Research
 nav: true
 nav_order: 3
 dropdown: true

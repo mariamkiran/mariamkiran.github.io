@@ -29,7 +29,6 @@ social: true  # includes social icons at the bottom of the page
 
     
 Dr. Kiran is a scientist, technologist, and entrepreneur working at the intersection of artificial intelligence, multi-agent systems, distributed computing, and next-generation infrastructure. At the U.S. Department of Energy’s Oak Ridge National Laboratory, she works on advancing networking and quantum communications technologies that enable large-scale scientific discovery.<br>
-Dr. Kiran joined Oak Ridge National Laboratory in 2023 as Group Lead for Quantum Networking and Communications Group. <br>
 
 Earning her PhD, MSc in Computer Science, Kiran developed evolutionary learning algorithms for Agents in large complex systems over distributed high performance systems building the open source platform <a href="www.flame.ac.uk">FLAME</a>.<br>  
 Dr. Kiran's research explores AI/ML solutions for solving complex challenges in moving, processing, and coordinating data across geographically distributed computing infrastructures to accelerate scientific research and innovations, such as in US DOE science challenges (e.g. high-energy physics, plant ecology, nuclear energy applications and more). Her major research accomplishments include network intelligence for intent based networks, agentic AI in networks, traffic engineering optimization, TCP algorithm research and studying network protcols for wide area networks, wireless and quantum networking.<br>

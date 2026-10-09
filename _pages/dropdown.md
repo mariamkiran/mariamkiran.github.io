@@ -5,7 +5,10 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: "data & projects"
+  - title: "Innovation Radar"
+    permalink: /innovationradar/
+  - title: divider
+  - title: "My Projects"
     permalink: /data/
   - title: divider
   - title: Publications

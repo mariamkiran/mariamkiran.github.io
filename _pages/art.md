@@ -1,6 +1,6 @@
 ---
 layout: page
-title: creative
+title: Creative
 permalink: /art/
 description: 
 nav: true

@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-2027 MIT Excutive MBA (Entrepeneurship & Finance)
+2027 MIT Excutive MBA (Entrepeneurship & Finance)<br>
 2024 UKStudy Award Finalist (British Council)<br>
 2021 Rising Star in Networking and Communications (ACM N2Women)<br>
 2017 US Department of Energy (DOE) Early Career Award<br>

@@ -7,10 +7,12 @@ nav:
 Noteworthy projects, companies, and ideas across industries and emerging technologies.</b>
 
 <h3>Inspiring Projects Across the World in Compututing, Networking and More</h3>
+
 | Project Name | Company | Details |
-| -------- | -------- | -------- |
-| Row 1 A  | Row 1 B  | Row 1 C  |
-| Row 2 A  | Row 2 B  | Row 2 C  |
+| ------------ | --------| ------- |
+| Row 1 A      | Row 1 B | Row 1 C |
+| Row 2 A      | Row 2 B | Row 2 C |
+
 
 
 <h3>Open Networking Data</h3>

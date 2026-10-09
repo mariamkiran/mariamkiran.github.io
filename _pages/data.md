@@ -9,20 +9,6 @@ nav:
 
 
 
-<h3>Collected Networking Data repositories</h3>
-<ul>
-  <li> <a href='https://catalog.caida.org/search?query=types=dataset%20links=tag:caida%20'>CAIDA</a>: Great resource for Internet Data.</li>
-  <li> <ul>TCP Statistics:
-   <li>TCP and ML analysis for good and bad flows. Cubic, Reno and Hamilton analysis. <a href='https://github.com/Panorama360/Panorama_ML_libraries'>Panorama datasets</a>.</li>
-  <li>Studying how TCP conflicts in same link, Exploring BBR v1, v2 and v3. <a href='https://sites.google.com/view/poseidon-workflows/datasets?authuser=1'>Poseidon Datasets</a>.</li>
-  </ul> 
-  </li>
-<li> Sample Wireshark captures, open data set.</li>
-<li>MAWI data: for traffic anomalies: http://www.fukuda-lab.org/mawilab/documentation.html</li>
-<li>Internet Traffic data: https://ant.isi.edu/datasets/index.html</li>
-<li>Security related data released by cybersecurity lab at LANL: https://csr.lanl.gov/data/cyber1/</li>
-<li>Netflix data set for movie recommendations: https://www.kaggle.com/netflix-inc/netflix-prize-data</li>
-</ul>
 
 
 
@@ -32,6 +18,7 @@ nav:
                     
 <h3 id="resprj">Funded Profile</h3>
   <ul>
+   <li>SciNet(PI, Kiran). Funded by DOE Genesis Mission</li>
     <li>SWARM(PI, Ewa Deelman USC). Funded by DOE</li>
  <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE</li>
 <li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD</li>

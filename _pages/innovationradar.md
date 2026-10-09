@@ -7,7 +7,7 @@ nav:
 Noteworthy projects, companies, and ideas across industries and emerging technologies.
 <br>
 
-<h3>Inspiring Projects Across the World in Compututing, Networking and More</h3>
+<h3>Inspiring Projects Across the World in Computing, Networking and More!</h3>
 
 | Project Name | Company | Details |
 | ------------ | --------| ------- |

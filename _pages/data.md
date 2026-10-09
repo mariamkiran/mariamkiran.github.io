@@ -19,6 +19,7 @@ nav:
 <h3 id="resprj">Funded Profile</h3>
   <ul>
    <li>SciNet(PI, Kiran). Funded by DOE Genesis Mission</li>
+    <li>Quantum Networking Controller (PI, Kiran). Funded by LDRD.</li>
     <li>SWARM(PI, Ewa Deelman USC). Funded by DOE</li>
  <li>Self-driving 5G Network. (PI,Kiran). Funded by DOE</li>
 <li>Intelligent Automation Wireless Network. (PI,Kiran). Funded by LBNL LDRD</li>

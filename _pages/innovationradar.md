@@ -4,7 +4,7 @@ title: Innovation Radar
 permalink: /innovationradar/
 nav: 
 ---
-Noteworthy projects, companies, and ideas across industries and emerging technologies.</br>
+Noteworthy projects, companies, and ideas across industries and emerging technologies.</b>
 
 
 

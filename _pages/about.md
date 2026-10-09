@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>Group Leader for Quantum Communications and Networking, Oak Ridge National Laboratory</b> 
 
@@ -20,6 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+2027 MIT Excutive MBA (Entrepeneurship & Finance)
 2024 UKStudy Award Finalist (British Council)<br>
 2021 Rising Star in Networking and Communications (ACM N2Women)<br>
 2017 US Department of Energy (DOE) Early Career Award<br>
@@ -27,12 +28,12 @@ social: true  # includes social icons at the bottom of the page
 **Email: kiranm@ornl.gov**<br>
 
     
-Is an AI Scientist who develops AI and distributed intelligence solutions for Computer Networking - Wide area networks, Wireless and Quantum Networking.<br>
+Dr. Kiran is a scientist, technologist, and entrepreneur working at the intersection of artificial intelligence, multi-agent systems, distributed computing, and next-generation infrastructure. At the U.S. Department of Energy’s Oak Ridge National Laboratory, she works on advancing networking and quantum communications technologies that enable large-scale scientific discovery.<br>
 Dr. Kiran joined Oak Ridge National Laboratory in 2023 as Group Lead for Quantum Networking and Communications Group. <br>
 
 Earning her PhD, MSc in Computer Science, Kiran developed evolutionary learning algorithms for Agents in large complex systems over distributed high performance systems building the open source platform <a href="www.flame.ac.uk">FLAME</a>.<br>  
-Dr. Kiran's research explores AI/ML solutions for improving network performance for high-speed distributed data movement and large science transfers such as in US DOE science challenges (e.g. high-energy physics, plant ecology, nuclear energy applications and more). Her major research accomplishments include network intelligence for intent based networks, agentic AI in networks, traffic engineering optimization, TCP algorithm research and studying network protcols for wide area networks, wireless and quantum networking.<br>
-Dr. Kiran has been recognized as a 2021 ACM rising star for networking, UKStudy alumni by the British Council, 2017 DOE Early Career and 2016 Royal Society Scientist in Westminster.
+Dr. Kiran's research explores AI/ML solutions for solving complex challenges in moving, processing, and coordinating data across geographically distributed computing infrastructures to accelerate scientific research and innovations, such as in US DOE science challenges (e.g. high-energy physics, plant ecology, nuclear energy applications and more). Her major research accomplishments include network intelligence for intent based networks, agentic AI in networks, traffic engineering optimization, TCP algorithm research and studying network protcols for wide area networks, wireless and quantum networking.<br>
+Through her research and entrepreneurial ventures, she aims to bridge scientific breakthroughs and practical innovation—transforming advances in AI, distributed systems, and quantum technologies into solutions for some of the world’s most challenging problems.
 
 <br>
 Keywords: deep learning, software engineering, game theory and swarm intelligence, **Self-Driving Networks, Intelligent Networks or Networks that can think!**
@@ -46,6 +47,7 @@ Feel free to reach out to me about following resources/code I maintain.
 
 <h3>Featured Articles & Media </h3>
 <ul>
+  <li>Leading part of the Genesis Mission: <a href="https://www.ornl.gov/news/department-energy-selects-ornl-lead-nine-genesis-mission-projects/">Building SciNet for DOE Infrastructure</a>.</li>
    <li>Books Published: X-Machines for Agent-Based Modeling: FLAME Perspectives <a href='https://www.amazon.com/s?k=X-Machines+for+Agent-Based+Modeling%3A+FLAME+Perspectives&i=stripbooks&ref=nb_sb_noss'>Amazon Link</a> </li>
   <li>Quantum ZeitGiest: <a href="https://quantumzeitgeist.com/quantum-computing-researcher-mariam-kiran-honored-by-british-council/">Quantum Computing Researcher Mariam Kiran Honored by British Council</a>. with <a href="https://www.ornl.gov/news/kiran-honored-quantum-computing-research">Details</a>.</li>
   <li>SSURF Society for Science at User Facilities: <a href="https://ssurf.org/at-esnet-mariam-kiran-wins-rising-star-award-for-network-engineering/">At ESnet, Mariam Kiran Wins Rising Star Award for Network Engineering</a>.</li>

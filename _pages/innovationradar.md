@@ -5,7 +5,7 @@ permalink: /innovationradar/
 nav: 
 ---
 Noteworthy projects, companies, and ideas across industries and emerging technologies.
-
+<br>
 
 <h3>Inspiring Projects Across the World in Compututing, Networking and More</h3>
 
@@ -15,6 +15,7 @@ Noteworthy projects, companies, and ideas across industries and emerging technol
 | Row 2 A      | Row 2 B | Row 2 C |
 
 
+<br>
 
 <h3>Open Networking Data</h3>
 <ul>

@@ -12,7 +12,7 @@ horizontal: false
 <!--temp.html
 [My page](/temp.html)
 -->
- Building the future of distributed intelligence—where AI agents, scientific computing, and intelligent infrastructure work together to solve the world’s hardest problems.</p>
+ Building the future of distributed intelligence—where AI agents, scientific computing, and intelligent infrastructure work together to solve the world’s hardest problems.</br>
  
 <h3>Multi-Agent and SWARM Systems</h3>
 <ul>
